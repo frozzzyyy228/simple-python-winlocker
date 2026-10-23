@@ -1,4 +1,4 @@
-**# simple-python-winlocker**
+** simple-python-winlocker**
 
 
 
@@ -6,17 +6,14 @@
 
 
 
-#### **# Warning! This program is malicious. It is not intended for distribution or use for malicious purposes. This program was written for educational purposes, to study Windows security systems. Under no circumstances should you run it on your main computer. The author is not responsible for your actions. You assume all responsibility by downloading this program.**
+#### ** Warning! This program is malicious. It is not intended for distribution or use for malicious purposes. This program was written for educational purposes, to study Windows security systems. Under no circumstances should you run it on your main computer. The author is not responsible for your actions. You assume all responsibility by downloading this program.**
 
 
 
-### **# Внимание! Эта программа является вредоносной. Она не предназначена для распространения или использования в плохих целях. Данная программа написана в образовательных целях, для изучения систем безопасности windows. Не в коем случае не запускайте её на основном компьютере. Автор не несёт ответственности за ваши действия. Всю ответственность вы берёте на себя, скачивая данную программу.**
-
-### 
+### ** Внимание! Эта программа является вредоносной. Она не предназначена для распространения или использования в плохих целях. Данная программа написана в образовательных целях, для изучения систем безопасности windows. Не в коем случае не запускайте её на основном компьютере. Автор не несёт ответственности за ваши действия. Всю ответственность вы берёте на себя, скачивая данную программу.**
 
 
-
-**## How the program works (en)**
+** How the program works (en)**
 
 
 
@@ -24,17 +21,17 @@
 
 
 
-**### Limited password entry attempts: 3**
+** Limited password entry attempts: 3**
 
-**### If the attempts are exhausted, you must wait 60 minutes.**
+** If the attempts are exhausted, you must wait 60 minutes.**
 
-**### When launched, there is a small animation and sound.**
-
-
+** When launched, there is a small animation and sound.**
 
 
 
-**## Как работает программа (ru)**
+
+
+** Как работает программа (ru)**
 
 
 
@@ -42,13 +39,13 @@
 
 
 
-**### Количество попыток ввода пароля ограничено: 3**
+** Количество попыток ввода пароля ограничено: 3**
 
-**### Если попытки исчерпаны, вы должны подождать 60 минут.**
+** Если попытки исчерпаны, вы должны подождать 60 минут.**
 
-**### При запуске появляется небольшая анимация и звуковой сигнал.**
+** При запуске появляется небольшая анимация и звуковой сигнал.**
 
 
 
-**# Данная программа наносит вред компьютеру, не в коем случае не запускайте её**
+** Данная программа наносит вред компьютеру, не в коем случае не запускайте её**
 
